@@ -1,2 +1,2 @@
 # Git_learning
-go**a
+learning git
